@@ -1,0 +1,1 @@
+El login está abierto para cualquier persona, el usuario y la contraseña puede ser cualquier letra una vez que le de a ENTER le mostrará los proyecto en la parte izquierda del inicio
